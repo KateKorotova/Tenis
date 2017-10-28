@@ -18,9 +18,15 @@
     <ClCompile Include="Tenis.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="conslib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tenis.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="conslib.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
